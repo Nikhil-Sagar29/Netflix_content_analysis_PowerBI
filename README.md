@@ -164,9 +164,19 @@ This project demonstrates:
 3. Ability to convert simple data into meaningful insights
 
 👤 Author
-------------
-
+-----------------
 Nikhil Sagar
 
-Aspiring Data Analyst
+🎓 BBA Graduate
+📊 Data Analyst
+
+Skills:
+--------------
+1. SQL
+2. Power BI
+3. Microsoft Excel
+4. Data Analysis & Visualization
+
+⭐ If You Found This Useful
+Consider starring ⭐ the repository to support the project.
 
